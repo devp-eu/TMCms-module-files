@@ -1,0 +1,21 @@
+{
+  "name": "neTpyceB/TMCms-module-files",
+  "type": "library",
+  "description": "Module Files for TMCms",
+  "keywords": ["module", "files", "tmcms"],
+  "homepage": "http://devp.eu/",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vadims Petrusevs",
+      "email": "info@devp.eu",
+      "homepage": "http://devp.eu/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TMCms\\Modules\\Files\\": "src"
+    }
+  }
+}
